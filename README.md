@@ -209,7 +209,7 @@ PASS: both transports handle failures and recover without restarting Order.
 PIDs and elapsed times vary between runs. Matching PIDs before and after recovery
 show that Order was not restarted.
 
-## Comparison (5 sentences)
+## Comparison 
 
 REST was straightforward to inspect with curl because requests and responses were
 plain JSON, but it required manual routing, JSON parsing, and field validation.
