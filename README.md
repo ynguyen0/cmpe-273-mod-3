@@ -1,4 +1,4 @@
-# Order → Inventory: REST and gRPC
+# Order to Inventory: REST and gRPC
 
 Two equivalent Python implementations of an Order Service calling an Inventory
 Service. Each accepts `item_id` and `quantity`, validates them, and accepts the
